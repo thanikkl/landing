@@ -1,0 +1,32 @@
+.container {
+    width: 900px;
+    margin: auto;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.card {
+    width: 200px;
+    border-radius: 3px;
+    box-shadow: 0 0 5px rgb(230,230,230);
+    text-align: center;
+    padding: 20px;
+    border: 3px solid rgb(230,230,230);
+    color: #e1f4f3;
+}
+
+.card h4 {
+    color: black;
+}
+
+div {
+  display: block;
+}
+
+.card img {
+  height: 100px;
+}
